@@ -12,3 +12,5 @@ An in-depth review and ranking of Colab alternatives, focusing on their free tie
 😕 Azure ML Notebooks, Google Vertex ML Notebooks, and Hugging Face Spaces fall short in ease of use and consistent free access, earning a C-tier ranking.
 😠 Deepnote disappoints with minimal CPU and RAM, placing it in the D-tier.
 😍 AICodeKing's favorite, Lightning AI, stands out with reliable performance, VS Code interface, and easy GPU access, making it a top choice.
+https://youtu.be/UqmulHG4IvY?si=0v9Bejpz0D555YrZ  
+Data Science Beginner Project: Kaggle House Prices Regression Analysis (Full Walkthrough)
